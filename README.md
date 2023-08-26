@@ -20,3 +20,8 @@ This project aims to detect driver drowsiness using the YOLOv5 object detection 
    git clone https://github.com/sujaykumarmag/yolov5-drowsy-driver.git
    cd yolov5-drowsy-driver
    
+## Results
+
+[![Watch the video]()](Timeline 1.mov)
+
+
